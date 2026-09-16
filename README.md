@@ -1,1 +1,1 @@
-Universe database required for freeCodeCamp certification
+Universe SQL database required for freeCodeCamp certification
